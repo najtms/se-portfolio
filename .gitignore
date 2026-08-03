@@ -39,3 +39,7 @@ progress.md
 
 # Dev screenshots
 v3-*.png
+
+# Dev tool artifacts
+.playwright-mcp/
+.impeccable/
